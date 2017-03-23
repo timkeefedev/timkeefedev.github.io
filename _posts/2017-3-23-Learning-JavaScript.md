@@ -5,7 +5,7 @@ title: Learning JavaScript
 
 ### A Guide to Understanding How JavaScript Actually Works
 
-I have compiled and organized the notes that I jotted down on my journey to understanding of JavaScript.  
+I have compiled and organized the notes that I jotted down on my journey to understanding JavaScript.  
 
 I think this guide is alot different than most guides/books becuase it attempts to explain JavaScript within a generalized model of a compiler and runtime environment, stepping you through what happens to your code when you hit “GO”.
 
