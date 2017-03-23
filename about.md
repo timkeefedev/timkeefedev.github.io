@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Purpose of this blog
 
-### More Information
+Alot of blogs post articles describing solutions or coding patterns/concepts - basically attempting to provide answers.
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog will probably have some of those types of articles, but it I expect a few posts will conclude with new questions or some still unanswered questions.  Currently this blog is not about being an authority on subject matter, it is simply about exploring the JavaScript language.  All constructive comments are welcome!
+
 
 ### Contact me
 
