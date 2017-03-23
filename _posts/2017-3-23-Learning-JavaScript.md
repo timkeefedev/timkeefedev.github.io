@@ -36,7 +36,8 @@ Here is a quick outline of the topics covered:
 1.    Primitives Values          
 2.    Objects Values
   1.      The Object Object Value Type
-  2.      The Function Object Value Type  
+  2.      The Function Object Value Type
+  
       Lexical Environments and Scope      
       Execution Contexts      
       Methods      
