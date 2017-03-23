@@ -30,6 +30,7 @@ Here is a quick outline of the topics covered:
   Describing the JavaScript language and outlining the important concepts.  
   Part 0. Describing a JavaScript run time model
 
+
 #### __Creating Environments__
 *   #### Part A. Writing Code - the Basics
       Variables and Assigning Value Types      
