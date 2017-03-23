@@ -7,7 +7,7 @@ title: Learning JavaScript
 
 I have compiled and organized the notes that I jotted down on my journey to understanding JavaScript.  
 
-I think this guide is alot different than most guides/books becuase it attempts to explain JavaScript within a generalized model of a compiler and runtime environment, stepping you through what happens to your code when you hit “GO”.
+I think this guide is a lot different than most guides/books because it attempts to explain JavaScript within a generalized model of a compiler and runtime environment, stepping you through what happens to your code when you hit “GO”.
 
 It describes:
 * _How code will be parsed by the compiler._
@@ -19,7 +19,7 @@ It illustrates how JavaScript code pattern/structures manipulate your data, whic
 * _Why a particular concept is useful in your program._
 * _Why a certain code pattern is used to implement the concept in your program._
 
-The guide has 17 seperate sections, with each section consisting of several pages of text, code samples and diagrams.
+The guide has 17 separate sections, with each section consisting of several pages of text, code samples and diagrams.
 Here is quick outline of the topics covered:
 
 
