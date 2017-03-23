@@ -20,7 +20,7 @@ It illustrates how JavaScript code pattern/structures manipulate your data, whic
 * _Why a certain code pattern is used to implement the concept in your program._
 
 The guide has 17 separate sections, with each section consisting of several pages of text, code samples and diagrams.
-Here is quick outline of the topics covered:
+Here is a quick outline of the topics covered:
 
 
 ### Overview
@@ -32,12 +32,11 @@ Here is quick outline of the topics covered:
 
 #### __Creating Environments__
 *   #### Part A. Writing Code - the Basics
-      Variables and Assigning Value Types      
-      
-      1) Primitives Values          
-      2) Objects Values        
-      a) The Object Object Value Type          
-      b) The Function Object Value Type
+      Variables and Assigning Value Types    
+        1) Primitives Values          
+        2) Objects Values        
+          a) The Object Object Value Type          
+          b) The Function Object Value Type
       
       Lexical Environments and Scope      
       Execution Contexts      
@@ -57,10 +56,10 @@ Here is quick outline of the topics covered:
     Managing memory usage    
     Managing variable assignment    
     Understanding Closure    
-    1) A consequence of JavaScript’s Lexical Scoping mechanism    
-    2) Enables functions as “first class” object capabilities manage:    
-    a) the visibility of variables upon function invocation and    
-    b) the timing of function invocation
+      1) A consequence of JavaScript’s Lexical Scoping mechanism    
+      2) Enables functions as “first class” object capabilities manage:    
+        a) the visibility of variables upon function invocation and    
+        b) the timing of function invocation
 
 If you are interested in reading a bit or all of the guide, just click the below link to my google drive.
 
