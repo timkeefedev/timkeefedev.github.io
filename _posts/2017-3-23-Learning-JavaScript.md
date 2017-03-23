@@ -55,10 +55,10 @@ Here is a quick outline of the topics covered:
     Managing memory usage    
     Managing variable assignment    
     Understanding Closure    
-1.    A consequence of JavaScript’s Lexical Scoping mechanism    
-2.    Enables functions as “first class” object capabilities manage:    
-  *     the visibility of variables upon function invocation and    
-  *     the timing of function invocation
+    ....A consequence of JavaScript’s Lexical Scoping mechanism    
+    ....Enables functions as “first class” object capabilities manage:    
+    ........the visibility of variables upon function invocation and    
+    ........the timing of function invocation
 
 If you are interested in reading a bit or all of the guide, just click the below link to my google drive.
 
