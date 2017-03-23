@@ -13,4 +13,4 @@ This blog will probably have some of those types of articles, but it I expect a 
 
 ### Contact me
 
-[timkeefedev@gmail.com](mailto:timkeefedev@gmail.com)
+[timkeefe.dev@gmail.com](mailto:timkeefe.dev@gmail.com)
