@@ -32,12 +32,11 @@ Here is a quick outline of the topics covered:
 
 #### __Creating Environments__
 *   #### Part A. Writing Code - the Basics
-      Variables and Assigning Value Types    
-1. Primitives Values          
-2. Objects Values
-  1. The Object Object Value Type
-  2. The Function Object Value Type
-  
+      Variables and Assigning Value Types
+      ....Primitives Values          
+      ....Objects Values
+      ........The Object Object Value Type
+      ........The Function Object Value Type
       Lexical Environments and Scope      
       Execution Contexts      
       Methods      
