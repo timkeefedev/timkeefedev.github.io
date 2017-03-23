@@ -35,8 +35,8 @@ Here is a quick outline of the topics covered:
       Variables and Assigning Value Types    
 1.    Primitives Values          
 2.    Objects Values
-3.      The Object Object Value Type
-4.      The Function Object Value Type  
+  1.      The Object Object Value Type
+  2.      The Function Object Value Type  
       Lexical Environments and Scope      
       Execution Contexts      
       Methods      
