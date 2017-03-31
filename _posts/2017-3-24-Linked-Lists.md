@@ -63,37 +63,37 @@ As the number of objects your tracking grows the time savings with the Modified 
 
 Here is a sample run of app.js at (what I call) an indifference point (14 objects for 100,000 clicks):
 
-| __14 objects for 100,000 clicks:__ |
+| __14 objects for 100,000 clicks:__ | | |
 
-| __pass 1__ |
+| __pass 1__ | | |
 
-|Modified:  12.273ms	-- Times always decreased on subsequent passes. Why? |
+|Modified: | | 12.273ms	-- Times always decreased on subsequent passes. Why? |
 
-|Standard: 12.417ms|
+|Standard: | | 12.417ms|
 
-| __pass 2__ | |
+| __pass 2__ | | |
 
-|Modified:  9.725ms	  -- Modified time was always higher on pass2. Why? |
+|Modified: | | 9.725ms	  -- Modified time was always higher on pass2. Why? |
 
-|Standard: 9.547ms|
+|Standard: | | 9.547ms|
 
-| __pass 3__ | |
+| __pass 3__ | | |
 
-|Modified:  7.507ms |
+|Modified: | | 7.507ms |
 
-|Standard: 9.653ms |
+|Standard: | | 9.653ms |
 
-| __pass 4__ |
+| __pass 4__ | | |
 
-|Modified:  7.410ms |
+|Modified: | | 7.410ms |
 
-|Standard: 9.754ms |
+|Standard: | | 9.754ms |
 
-| __pass 5__ |
+| __pass 5__ | | |
 
-|Modified:  7.817ms |
+|Modified: | | 7.817ms |
 
-|Standard: 9.706ms |
+|Standard: | | 9.706ms |
 
 [Finished in 0.3s]
 
@@ -102,34 +102,34 @@ Increasing the objects being tracked should result in:
 - a stable time measurement for the modified linked list (which fails) and
 - an increasing time measurement for the traditional link list. 
 
-| __100 objects for 100,000 clicks:__ | |
+| __100 objects for 100,000 clicks:__ |
 
 
-| __pass 1__ | |
+| __pass 1__ |
 
 |Modified:  16.181ms |
 
 |Standard: 33.645ms |
 
-| __pass 2__ | |
+| __pass 2__ |
 
 |Modified:  14.496ms |
 
 |Standard: 32.038ms |
 
-| __pass 3__ | |
+| __pass 3__ |
 
 |Modified:  12.117ms |
 
 |Standard: 31.426ms |
 
-| __pass 4__ | |
+| __pass 4__ |
 
 |Modified:  11.762ms |
 
 |Standard: 31.560ms |
 
-| __pass 5__ | |
+| __pass 5__ |
 
 |Modified:  12.236ms |
 
@@ -137,10 +137,10 @@ Increasing the objects being tracked should result in:
 
 [Finished in 0.4s]
 
-| __200 objects for 100,000 clicks:__ | |
+| __200 objects for 100,000 clicks:__ |
 
 
-| __pass 1__ | |
+| __pass 1__ |
 
 |Modified: | 21.855ms |
 
