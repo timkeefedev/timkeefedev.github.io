@@ -36,7 +36,7 @@ If found, then update its click count:
 Check to see if its position is now higher on the List.
 If rank changes, then update its position to reflect its popularity.
 
-I have put the code on my github page https://github.com/timkeefedev if you want to play around with it.
+I have put the code on [my github page](https://github.com/timkeefedev) if you want to play around with it.
 
 It consists of 7 files:
 
