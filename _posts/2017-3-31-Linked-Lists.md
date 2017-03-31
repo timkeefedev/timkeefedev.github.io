@@ -97,10 +97,7 @@ Here is a sample run of app.js at (what I call) an indifference point (14 object
 
 [Finished in 0.3s]
 
-Increasing the objects being tracked should result in:
-
-- a stable time measurement for the modified linked list (which fails) and
-- an increasing time measurement for the traditional link list. 
+Increasing the objects being tracked should result larger differences in execution times:
 
 | __100 objects for 100,000 clicks:__ | | |
 
@@ -174,9 +171,7 @@ Increasing the objects being tracked should result in:
 
 
 #### Conclusion
-People must implement JavaScript Linked Lists with a nesting structure out of tradition.  It appears the modified version is typically more efficient, but
-  1.  The modified structure is not constant time for some reason?
-  2.  Why would the first pass always take significantly more time than subsequent passes with the same array?
+People must implement JavaScript Linked Lists with a nesting structure out of tradition.  It appears the modified version is typically more efficient, but why would the first pass always take significantly more time than subsequent passes with the same array?
   
 I still need more understanding about how things work.  I have created more questions for myself due to: 
   1.  the misuse of console.time(),
