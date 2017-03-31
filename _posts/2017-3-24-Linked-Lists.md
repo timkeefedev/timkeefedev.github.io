@@ -102,73 +102,73 @@ Increasing the objects being tracked should result in:
 - a stable time measurement for the modified linked list (which fails) and
 - an increasing time measurement for the traditional link list. 
 
-| __100 objects for 100,000 clicks:__ |
+| __100 objects for 100,000 clicks:__ | | |
 
 
-| __pass 1__ |
+| __pass 1__ | | |
 
-|Modified:  16.181ms |
+|Modified: | | 16.181ms |
 
-|Standard: 33.645ms |
+|Standard: | | 33.645ms |
 
-| __pass 2__ |
+| __pass 2__ | | |
 
-|Modified:  14.496ms |
+|Modified: | | 14.496ms |
 
-|Standard: 32.038ms |
+|Standard: | | 32.038ms |
 
-| __pass 3__ |
+| __pass 3__ | | |
 
-|Modified:  12.117ms |
+|Modified: | | 12.117ms |
 
-|Standard: 31.426ms |
+|Standard: | | 31.426ms |
 
-| __pass 4__ |
+| __pass 4__ | | |
 
-|Modified:  11.762ms |
+|Modified: | | 11.762ms |
 
-|Standard: 31.560ms |
+|Standard: | | 31.560ms |
 
-| __pass 5__ |
+| __pass 5__ | | |
 
-|Modified:  12.236ms |
+|Modified: | | 12.236ms |
 
-|Standard: 31.585ms |
+|Standard: | | 31.585ms |
 
 [Finished in 0.4s]
 
-| __200 objects for 100,000 clicks:__ |
+| __200 objects for 100,000 clicks:__ | | |
 
 
-| __pass 1__ |
+| __pass 1__ | | |
 
-|Modified: | 21.855ms |
+|Modified: | | 21.855ms |
 
-|Standard: | 58.850ms |
+|Standard: | | 58.850ms |
 
-| __pass 2__ | |
+| __pass 2__ | | |
 
-|Modified: | 19.158ms |
+|Modified: | | 19.158ms |
 
-|Standard: | 56.086ms |
+|Standard: | | 56.086ms |
 
-| __pass 3__ | |
+| __pass 3__ | | |
 
-|Modified: | 16.965ms |
+|Modified: | | 16.965ms |
 
-|Standard: | 56.470ms |
+|Standard: | | 56.470ms |
 
-| __pass 4__ | |
+| __pass 4__ | | |
 
-|Modified: | 16.827ms |
+|Modified: | | 16.827ms |
 
-|Standard: | 56.141ms |
+|Standard: | | 56.141ms |
 
-| __pass 5__ | |
+| __pass 5__ | | |
 
-|Modified: | 16.607ms |
+|Modified: | | 16.607ms |
 
-|Standard: | 56.095ms |
+|Standard: | | 56.095ms |
 
 [Finished in 0.5s]
 
