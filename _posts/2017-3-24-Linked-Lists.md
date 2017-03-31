@@ -64,16 +64,27 @@ As the number of objects your tracking grows the time savings with the Modified 
 Here is a sample run of app.js at (what I call) an indifference point (14 objects for 100,000 clicks):
 
 | __14 objects for 100,000 clicks:__ | |
+
 |------------| -------- |
+
 | __pass 1__ | |
+
 |Modified: | 12.273ms	-- Times always decreased on subsequent passes. Why? |
+
 |Standard: | 12.417ms|
+
 | __pass 2__ | |
+
 |Modified: | 9.725ms	  -- Modified time was always higher on pass2. Why? |
+
 |Standard: | 9.547ms|
+
 | __pass 3__ | |
+
 |Modified: | 7.507ms |
+
 |Standard: | 9.653ms |
+
 | __pass 4__ | |
 |Modified: | 7.410ms |
 |Standard: | 9.754ms |
