@@ -67,31 +67,31 @@ Here is a sample run of app.js at (what I call) an indifference point (14 object
 
 | __pass 1__ |
 
-|Modified: 12.273ms	-- Times always decreased on subsequent passes. Why? |
+|Modified:  12.273ms	-- Times always decreased on subsequent passes. Why? |
 
 |Standard: 12.417ms|
 
 | __pass 2__ | |
 
-|Modified: 9.725ms	  -- Modified time was always higher on pass2. Why? |
+|Modified:  9.725ms	  -- Modified time was always higher on pass2. Why? |
 
 |Standard: 9.547ms|
 
 | __pass 3__ | |
 
-|Modified: 7.507ms |
+|Modified:  7.507ms |
 
 |Standard: 9.653ms |
 
 | __pass 4__ |
 
-|Modified: 7.410ms |
+|Modified:  7.410ms |
 
 |Standard: 9.754ms |
 
 | __pass 5__ |
 
-|Modified: 7.817ms |
+|Modified:  7.817ms |
 
 |Standard: 9.706ms |
 
@@ -107,33 +107,33 @@ Increasing the objects being tracked should result in:
 
 | __pass 1__ | |
 
-|Modified: | 16.181ms |
+|Modified:  16.181ms |
 
-|Standard: | 33.645ms |
+|Standard: 33.645ms |
 
 | __pass 2__ | |
 
-|Modified: | 14.496ms |
+|Modified:  14.496ms |
 
-|Standard: | 32.038ms |
+|Standard: 32.038ms |
 
 | __pass 3__ | |
 
-|Modified: | 12.117ms |
+|Modified:  12.117ms |
 
-|Standard: | 31.426ms |
+|Standard: 31.426ms |
 
 | __pass 4__ | |
 
-|Modified: | 11.762ms |
+|Modified:  11.762ms |
 
-|Standard: | 31.560ms |
+|Standard: 31.560ms |
 
 | __pass 5__ | |
 
-|Modified: | 12.236ms |
+|Modified:  12.236ms |
 
-|Standard: | 31.585ms |
+|Standard: 31.585ms |
 
 [Finished in 0.4s]
 
