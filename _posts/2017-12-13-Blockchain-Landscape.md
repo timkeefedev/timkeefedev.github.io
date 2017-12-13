@@ -13,8 +13,8 @@ In order to put this all together, I build a theoretical model from within an ec
 **The full article [Look Before You Leap](https://docs.google.com/document/d/1nkK6MPQfI8Skf79BAMVctDvO8Pw2HiiFEFVPMp5aCog/edit?usp=sharing)** is available on my Google drive. It is roughly 4100 words and should be about a 20–25 minute read. Among other things, the article includes links to blog posts with specific tools for determining if you should use blockchain technology.
 
 
-Some Highlights
-— 3 Take Aways and the Technology Tree Diagram
+**Some Highlights
+— 3 Take Aways and the Technology Tree Diagram**
 
 **1)The story of blockchain is a tale about databases. The main character is a new type of database software running on a distributed computer network.**
   - _The distributed network is a peer-to-peer network._
