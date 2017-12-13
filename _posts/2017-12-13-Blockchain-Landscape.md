@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Learning JavaScript with Tim
+title: Bitcoin, Blockchain and Distributed Ledgers: Look Before You Leap
 ---
 
-### A Guide to Understanding How JavaScript Actually Works  maybe....
+### Organizing the Landscape to Identify Potential Markets
+### A Viewpoint from 10,000 Feet
