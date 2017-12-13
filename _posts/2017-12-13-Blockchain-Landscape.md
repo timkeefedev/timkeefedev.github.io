@@ -17,9 +17,9 @@ Some Highlights
 
 1. The story of blockchain is a tale about databases. The main character is a new type of database software running on a distributed computer network.
 
-*The distributed network is a peer-to-peer network.
-The software employs consensus algorithms that enable the computers to create trust amongst themselves and thus become the trusted validation system — no need for a human based agency system to do this function any longer.
-Blockchain is located on the Database software branch of my Technology Tree (see below.) It is a grand child of Distributed Ledgers.
+*_The distributed network is a peer-to-peer network._
+*_The software employs consensus algorithms that enable the computers to create trust amongst themselves and thus become the trusted validation system — no need for a human based agency system to do this function any longer._
+*_Blockchain is located on the Database software branch of my Technology Tree (see below.) It is a grand child of Distributed Ledgers._
 
 
 ![an image alt text]({{ site.baseurl }}/images/Blockchain Landscape Updated Final - Pencil.png)
