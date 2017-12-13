@@ -15,7 +15,8 @@ The full article [Look Before You Leap](https://docs.google.com/document/d/1nkK6
 Some Highlights
 — 3 Take Aways and the Technology Tree Diagram
 
-1. The story of blockchain is a tale about databases. The main character is a new type of database software running on a distributed computer network.
+1) The story of blockchain is a tale about databases. The main character is a new type of database software running on a distributed computer network.
+
 *_The distributed network is a peer-to-peer network._
 
 *_The software employs consensus algorithms that enable the computers to create trust amongst themselves and thus become the trusted validation system — no need for a human based agency system to do this function any longer._
