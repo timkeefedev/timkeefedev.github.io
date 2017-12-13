@@ -13,3 +13,6 @@ In order to put this all together, I build a theoretical model from within an ec
 The full article [Look Before You Leap](https://docs.google.com/document/d/1nkK6MPQfI8Skf79BAMVctDvO8Pw2HiiFEFVPMp5aCog/edit?usp=sharing) is available on my Google drive. It is roughly 4100 words and should be about a 20–25 minute read. Among other things, the article includes links to blog posts with specific tools for determining if you should use blockchain technology.
 
 Some Highlights
+
+
+![an image alt text]({{ site.baseurl }}/images/Blockchain Landscape Updated Final - Pencil.png
