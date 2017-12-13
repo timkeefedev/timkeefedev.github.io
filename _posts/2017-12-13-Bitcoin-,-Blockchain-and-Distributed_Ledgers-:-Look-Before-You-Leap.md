@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Bitcoin, Blockchain and Distributed Ledgers: Look before You Leap
+title: Learning JavaScript Bitcoin, Blockchain and Distributed Ledgers: Look before You Leap
 ---
 
-Bitcoin, Blockchain and Distributed Ledgers: Look before You Leap
-Organizing the Landscape to Identify Potential Markets
-One Viewpoint from 10,000 Feet
+### Organizing the Landscape to Identify Potential Markets
+### One Viewpoint from 10,000 Feet
 
 I am attempting to tell a story of what the “blockchain” innovation is and where it fits into a technology landscape. In addition, I try to describe why this innovation is important and how it creates value.
 In order to put this all together, I build a theoretical model from within an economic context — transaction costs and agency costs. This model gives the reader, particularly those not familiar with economic theory, another perspective from which to understand and think more prudently about applying this innovation to the specific business challenge they are trying to solve.
