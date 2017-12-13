@@ -15,4 +15,4 @@ The full article [Look Before You Leap](https://docs.google.com/document/d/1nkK6
 Some Highlights
 
 
-![an image alt text]({{ site.baseurl }}/images/Blockchain Landscape Updated Final - Pencil.png
+![an image alt text]({{ site.baseurl }}/images/Blockchain Landscape Updated Final - Pencil.png)
