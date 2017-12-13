@@ -12,6 +12,17 @@ In order to put this all together, I build a theoretical model from within an ec
 
 The full article [Look Before You Leap](https://docs.google.com/document/d/1nkK6MPQfI8Skf79BAMVctDvO8Pw2HiiFEFVPMp5aCog/edit?usp=sharing) is available on my Google drive. It is roughly 4100 words and should be about a 20–25 minute read. Among other things, the article includes links to blog posts with specific tools for determining if you should use blockchain technology.
 
+It describes:
+* _How code will be parsed by the compiler._
+* _How data items will be stored and accessed._
+* _How data items will be processed by the runtime._
+
+It illustrates how JavaScript code pattern/structures manipulate your data, which should lead to a better understanding of:
+
+* _Why a particular concept is useful in your program._
+* _Why a certain code pattern is used to implement the concept in your program._
+
+
 Some Highlights
 — 3 Take Aways and the Technology Tree Diagram
 
