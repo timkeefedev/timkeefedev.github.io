@@ -26,7 +26,7 @@ In order to put this all together, I build a theoretical model from within an ec
 **2)The new distributed database software is a continuation of a software wave that began decades ago with TCP and IP. This wave has been pushing a fundamental shift in communication.**
   - _The shift is computer-to-computer communication systems replacing people-to-people communication systems._
   - _Although TCP and IP are computer-to-computer communication software, these programs began an evolution in network hardware that led to computer-to-people software (like web browsers) which in turn opened the door for software (like Priceline, Google, Amazon, Uber) that performed the Search task in the people-to-people transaction system._
-  - _The ability to create a trusted system with networked computers now enables computer-to-people software (like distributed ledgers) to more effectively perform the remaining two tasks, Bargain and Enforce, in the people-to-people transaction system.-
+  - _The ability to create a trusted system with networked computers now enables computer-to-people software (like distributed ledgers) to more effectively perform the remaining two tasks, Bargain and Enforce, in the people-to-people transaction system._
   
 **3)The industry forces involved in this age of the wave, let’s call it the Bargain and Enforce Age, are more complicated, interconnected and involve more human institutions/bureaucracy than when upgrading the network or commandeering the Search task. An article titled, The [Truth about Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain) in Harvard Business Review touches on this subject.**
   - _This implies the adoption process regarding this new database technology will be difficult._
