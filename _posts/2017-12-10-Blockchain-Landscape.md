@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bitcoin, Blockchain and Distributed Ledgers: Look before You Leap
+title: Learning JavaScript Bitcoin, Blockchain and Distributed Ledgers: Look before You Leap
 ---
 
 ### Organizing the Landscape to Identify Potential Markets
