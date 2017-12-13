@@ -32,3 +32,5 @@ In order to put this all together, I build a theoretical model from within an ec
   - _This implies the adoption process regarding this new database technology will be difficult._
   - _During this shift over the past decades, the highway is already littered with thousands of business carcasses. I expect there will be multiples of that number in this bargain and enforce stage of the wave._
   - _Understanding the competitive industry structure of their targeted transaction system will help entrepreneurs identify strategic risks and business uncertainties and prepare for if, when and how viciously competition may react._
+
+**The full article [Look Before You Leap](https://docs.google.com/document/d/1nkK6MPQfI8Skf79BAMVctDvO8Pw2HiiFEFVPMp5aCog/edit?usp=sharing)**
