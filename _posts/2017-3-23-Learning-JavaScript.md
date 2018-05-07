@@ -3,7 +3,7 @@ layout: post
 title: Learning JavaScript
 ---
 
-### A Guide to Understanding How JavaScript Actually Works
+### Another Guide to Understanding JavaScript!
 
 I have compiled and organized the notes that I jotted down on my journey to understanding JavaScript.  
 
